@@ -2,9 +2,7 @@
 
 ## Course Link
 
-[https://www.udemy.com/course/master-react/](https://www.udemy.com/course/master-react/)
-
----
+[https://www.udemy.com/course/master-react](https://www.udemy.com/course/master-react)
 
 ## Setup & Run
 
