@@ -7,10 +7,10 @@ export default function MovieCard({ movie }) {
     e.target.src = "images/default.jpg";
   }
 
-  const getRatingClass= (rating) => {
-    if(rating >= 8) return 'rating-good';
+  const getRatingClass = (rating) => {
+    if (rating >= 8) return 'rating-good';
 
-    if(rating >= 5 && rating < 8) return 'rating-ok';
+    if (rating >= 5 && rating < 8) return 'rating-ok';
 
     return 'rating-bad';
   }
