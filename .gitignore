@@ -22,8 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Pretty
-.eslintrc.json
-.prettierignore
-.prettierrc

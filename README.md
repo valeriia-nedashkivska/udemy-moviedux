@@ -19,11 +19,19 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    git clone https://github.com/valeriia-nedashkivska/udemy-moviedux.git
    cd udemy-moviedux
+   ```
 
 2. **Install dependencies**
     ```bash
     npm install
+    ```
 
-3. **Running the Development Server**
+3. **Format the code (if you want to apply consistent styling)**
+    ```bash
+    npm run beautify
+    ```
+
+4. **Run the Development Server**
     ```bash
     npm run dev
+    ```
