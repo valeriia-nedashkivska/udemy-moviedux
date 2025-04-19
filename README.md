@@ -4,6 +4,12 @@
 
 [https://www.udemy.com/course/master-react](https://www.udemy.com/course/master-react)
 
+## About
+
+MovieDux is a React single‑page application that loads movies from a JSON file and displays them as interactive cards. You can search by title, filter by genre or rating, and add or remove films from your personal watchlist.
+
+![page](public/page.png)
+
 ## Setup & Run
 
 Follow these steps to get the project up and running on your local machine.
